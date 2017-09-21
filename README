@@ -2,4 +2,6 @@
 -------------------------------------------------------------------------------
     When using a third-party software, like Magic Set Editor, to develop cards
 for Tabletop Simulator, I found it tedious to then import my cards into the
-provided mod tools for the game just so that I can export them into 
+provided mod tools for the game just so that I can export them into texture
+file. TaSCE is designed so that a user can cirucmvent that additional step if
+he or she seeks to use a third-party software for development.
